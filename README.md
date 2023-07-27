@@ -1,13 +1,8 @@
 # About Traffic Engineering
-Almost **every classmate** arround me include me had been lost once.<br>
-<br> 
+Almost **every classmate** arround me include me had been lost once.
 - *What does this major realy about?*
-<br> 
 - *Why final exam of specialized courses looks that just need you recite?*
-<br>
  - *Where I can go in my future?*
-<br>
-<br>
 
 I have to say sorry that there I can give you none answer, because I think it is different to different person. However, this question always been a problem. When I was a freshman, I saw many valuable answers on the internet.
 <br>**There are some answer on the website** 
