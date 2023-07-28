@@ -18,6 +18,9 @@ But to my opinion, what kind of life do you want and how to achieve it are most 
 
 ## About this repository
 
+
+<font color=red>***Consider copyright ownership issue. Delete all PPT.*** Now there are some key points, homework examples and easy programs(*7.28*)</font>
+
 I have compiled all the academic materials I have retained since I entered the Swjtu, and I sorted them into folders according to time and courses.(***Don't worry, it's all in Chinese>-<***)
 <br>
 - Freshman year
