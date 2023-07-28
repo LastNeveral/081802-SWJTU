@@ -1,0 +1,11 @@
+Yun Yuan, Zhao Zhang, Xianfeng Terry Yang, Shandian Zhe,
+Macroscopic traffic flow modeling with physics regularized Gaussian process: A new insight into machine learning applications in transportation,
+Transportation Research Part B: Methodological,
+Volume 146,
+2021,
+Pages 88-110,
+ISSN 0191-2615,
+https://doi.org/10.1016/j.trb.2021.02.007.
+(https://www.sciencedirect.com/science/article/pii/S0191261521000369)
+Abstract: Despite the wide implementation of machine learning (ML) technique in traffic flow modeling recently, those data-driven approaches often fall short of accuracy in the cases with a small or noisy training dataset. To address this issue, this study presents a new modeling framework, named physics regularized machine learning (PRML), to encode classical traffic flow models (referred as physics models) into the ML architecture and to regularize the ML training process. More specifically, leveraging the Gaussian process (GP) as the base model, a stochastic physics regularized Gaussian process (PRGP) model is developed and a Bayesian inference algorithm is used to estimate the mean and kernel of the PRGP. A physics regularizer, based on macroscopic traffic flow models, is also developed to augment the estimation via a shadow GP and an enhanced latent force model is used to encode physical knowledge into the stochastic process. Based on the posterior regularization inference framework, an efficient stochastic optimization algorithm is then developed to maximize the evidence lowerbound of the system likelihood. For model evaluations, this paper conducts empirical studies on a real-world dataset which is collected from a stretch of I-15 freeway, Utah. Results show the new PRGP model can outperform the previous compatible methods, such as calibrated traffic flow models and pure machine learning methods, in estimation precision and is more robust to the noisy training dataset.
+Keywords: Macroscopic traffic flow model; Physics regularized machine learning; Multivariate Gaussian process; Posterior regularization inference

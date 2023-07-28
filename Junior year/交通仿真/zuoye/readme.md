@@ -1,0 +1,3 @@
+本小组考虑不同需求，分两方向可视化。
+1、Simulation System为面向可调参研究应用
+2、visualization展示更好的可视化效果

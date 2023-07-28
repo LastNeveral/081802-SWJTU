@@ -1,0 +1,6 @@
+D:\C#和数据库\CH3\Proj8\Proj8\bin\Debug\Proj8.exe.config
+D:\C#和数据库\CH3\Proj8\Proj8\bin\Debug\Proj8.exe
+D:\C#和数据库\CH3\Proj8\Proj8\bin\Debug\Proj8.pdb
+D:\C#和数据库\CH3\Proj8\Proj8\obj\Debug\Proj8.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH3\Proj8\Proj8\obj\Debug\Proj8.exe
+D:\C#和数据库\CH3\Proj8\Proj8\obj\Debug\Proj8.pdb

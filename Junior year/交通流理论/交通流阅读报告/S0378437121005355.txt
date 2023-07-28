@@ -1,0 +1,11 @@
+Yangsheng Jiang, Sichen Wang, Zhihong Yao, Bin Zhao, Yi Wang,
+A cellular automata model for mixed traffic flow considering the driving behavior of connected automated vehicle platoons,
+Physica A: Statistical Mechanics and its Applications,
+Volume 582,
+2021,
+126262,
+ISSN 0378-4371,
+https://doi.org/10.1016/j.physa.2021.126262.
+(https://www.sciencedirect.com/science/article/pii/S0378437121005355)
+Abstract: With the development of automated driving technology and communication technology, the emergence of connected automated vehicles (CAVs) will significantly improve traffic efficiency and safety. To study the influence of connected automated vehicles (CAVs) on mixed traffic flow, this study proposes a cellular automata (CA) model of mixed traffic flow considering the driving behavior of the platoon of CAVs. Firstly, three car-following modes, Human-driven vehicle (HDV), Adaptive Cruise Control (ACC), and Cooperative Adaptive Cruise Control (CACC), in mixed traffic flow are analyzed. Secondly, on the bias of the safety distance model and platoon behavior analysis, the acceleration, deceleration, and randomization rules of the cellular automata model of mixed traffic flow are developed. The time step is introduced into the model in the rule design, and the reaction time of the vehicle is considered in the randomization rule. Finally, a numerical simulation is conducted to analyze the fundamental diagram of mixed traffic flow, traffic congestion, and speed volatility under different penetration rates of CAVs. The result shows that (1) the road capacity under the pure CAV environment has increased by 3.24 times compared with the pure HDVs; (2) the maximum congestion reduction percentage can reach 63.36%; and (3) when the penetration rate reaches 80%, the velocity fluctuation decreases significantly. Sensitivity analysis shows that when the penetration rate of CAVs is 100%, the maximum platoon size increase can improve the road capacity. Furthermore, the maximum platoon size has an optimal value in a specific density range.
+Keywords: Mixed traffic flow; Cellular automata model; Connected automated vehicles; Platoon; Maximum platoon size

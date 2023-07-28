@@ -1,0 +1,10 @@
+D:\C#和数据库\CH7\Proj4\Proj4\bin\Debug\Proj4.exe.config
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.Form1.resources
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.Menu.resources
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.Properties.Resources.resources
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.csproj.GenerateResource.Cache
+D:\C#和数据库\CH7\Proj4\Proj4\bin\Debug\Proj4.exe
+D:\C#和数据库\CH7\Proj4\Proj4\bin\Debug\Proj4.pdb
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.exe
+D:\C#和数据库\CH7\Proj4\Proj4\obj\Debug\Proj4.pdb

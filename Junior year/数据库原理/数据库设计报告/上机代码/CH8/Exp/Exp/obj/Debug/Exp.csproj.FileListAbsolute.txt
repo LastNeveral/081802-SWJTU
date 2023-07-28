@@ -1,0 +1,9 @@
+D:\C#和数据库\CH8\Exp\Exp\bin\Debug\Exp.exe.config
+D:\C#和数据库\CH8\Exp\Exp\bin\Debug\Exp.exe
+D:\C#和数据库\CH8\Exp\Exp\bin\Debug\Exp.pdb
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.Form1.resources
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.Properties.Resources.resources
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.csproj.GenerateResource.Cache
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.exe
+D:\C#和数据库\CH8\Exp\Exp\obj\Debug\Exp.pdb

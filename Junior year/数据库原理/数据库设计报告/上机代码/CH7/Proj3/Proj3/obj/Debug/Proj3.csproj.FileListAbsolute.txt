@@ -1,0 +1,12 @@
+D:\C#和数据库\CH7\Proj3\Proj3\bin\Debug\Proj3.exe.config
+D:\C#和数据库\CH7\Proj3\Proj3\bin\Debug\Proj3.exe
+D:\C#和数据库\CH7\Proj3\Proj3\bin\Debug\Proj3.pdb
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.MForm.resources
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.Properties.Resources.resources
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.SForm.resources
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.csproj.GenerateResource.Cache
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.exe
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.pdb
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.MForm1.resources
+D:\C#和数据库\CH7\Proj3\Proj3\obj\Debug\Proj3.SForm1.resources

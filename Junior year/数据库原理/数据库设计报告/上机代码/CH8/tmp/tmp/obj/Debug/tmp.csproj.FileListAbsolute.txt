@@ -1,0 +1,10 @@
+D:\C#和数据库\CH8\tmp\tmp\bin\Debug\tmp.exe.config
+D:\C#和数据库\CH8\tmp\tmp\bin\Debug\tmp.exe
+D:\C#和数据库\CH8\tmp\tmp\bin\Debug\tmp.pdb
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.Form1.resources
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.Properties.Resources.resources
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.csproj.GenerateResource.Cache
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.exe
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.pdb
+D:\C#和数据库\CH8\tmp\tmp\obj\Debug\tmp.Form2.resources

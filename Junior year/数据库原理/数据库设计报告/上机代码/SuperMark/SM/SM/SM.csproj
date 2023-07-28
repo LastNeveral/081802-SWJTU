@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82BD9EA7-756B-4721-8CF1-274980B2B024}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SM</RootNamespace>
+    <AssemblyName>SM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addgk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addgk.Designer.cs">
+      <DependentUpon>addgk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addsp.Designer.cs">
+      <DependentUpon>addsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addspkc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addspkc.Designer.cs">
+      <DependentUpon>addspkc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addspkc1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addspkc1.Designer.cs">
+      <DependentUpon>addspkc1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="corporation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="corporation.Designer.cs">
+      <DependentUpon>corporation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editgk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editgk.Designer.cs">
+      <DependentUpon>editgk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editgk1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editgk1.Designer.cs">
+      <DependentUpon>editgk1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editgk2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editgk2.Designer.cs">
+      <DependentUpon>editgk2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editsp.Designer.cs">
+      <DependentUpon>editsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editsp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editsp1.Designer.cs">
+      <DependentUpon>editsp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editsp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editsp2.Designer.cs">
+      <DependentUpon>editsp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="init.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="init.Designer.cs">
+      <DependentUpon>init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setarea.Designer.cs">
+      <DependentUpon>setarea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setsplb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setsplb.Designer.cs">
+      <DependentUpon>setsplb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setuser.Designer.cs">
+      <DependentUpon>setuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setuser1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setuser1.Designer.cs">
+      <DependentUpon>setuser1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tjfl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tjfl.Designer.cs">
+      <DependentUpon>tjfl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gkgw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gkgw.Designer.cs">
+      <DependentUpon>gkgw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gkth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gkth.Designer.cs">
+      <DependentUpon>gkth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="querygkgw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="querygkgw.Designer.cs">
+      <DependentUpon>querygkgw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="spkcbj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spkcbj.Designer.cs">
+      <DependentUpon>spkcbj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tjsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tjsp.Designer.cs">
+      <DependentUpon>tjsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tjzl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tjzl.Designer.cs">
+      <DependentUpon>tjzl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addgk.resx">
+      <DependentUpon>addgk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addsp.resx">
+      <DependentUpon>addsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addspkc.resx">
+      <DependentUpon>addspkc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addspkc1.resx">
+      <DependentUpon>addspkc1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corporation.resx">
+      <DependentUpon>corporation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editgk.resx">
+      <DependentUpon>editgk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editgk1.resx">
+      <DependentUpon>editgk1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editgk2.resx">
+      <DependentUpon>editgk2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editsp.resx">
+      <DependentUpon>editsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editsp1.resx">
+      <DependentUpon>editsp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editsp2.resx">
+      <DependentUpon>editsp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="init.resx">
+      <DependentUpon>init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setarea.resx">
+      <DependentUpon>setarea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setsplb.resx">
+      <DependentUpon>setsplb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setuser.resx">
+      <DependentUpon>setuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setuser1.resx">
+      <DependentUpon>setuser1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tjfl.resx">
+      <DependentUpon>tjfl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gkgw.resx">
+      <DependentUpon>gkgw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gkth.resx">
+      <DependentUpon>gkth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="querygkgw.resx">
+      <DependentUpon>querygkgw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spkcbj.resx">
+      <DependentUpon>spkcbj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tjsp.resx">
+      <DependentUpon>tjsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tjzl.resx">
+      <DependentUpon>tjzl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

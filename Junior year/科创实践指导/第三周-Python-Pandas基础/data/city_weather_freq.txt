@@ -1,0 +1,9 @@
+city,event,temperature,windspeed
+mumbai,Fog,86.0,13.5
+mumbai,Rain,92.0,5.0
+mumbai,Sunny,90.0,5.0
+new york,Rain,32.0,6.0
+new york,Snow,28.0,12.0
+new york,Sunny,34.5,7.0
+paris,Cloudy,48.666666666666664,10.333333333333334
+paris,Sunny,45.0,20.0

@@ -1,0 +1,6 @@
+D:\C#和数据库\CH5\tmp\tmp\bin\Debug\tmp.exe.config
+D:\C#和数据库\CH5\tmp\tmp\obj\Debug\tmp.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH5\tmp\tmp\bin\Debug\tmp.exe
+D:\C#和数据库\CH5\tmp\tmp\bin\Debug\tmp.pdb
+D:\C#和数据库\CH5\tmp\tmp\obj\Debug\tmp.exe
+D:\C#和数据库\CH5\tmp\tmp\obj\Debug\tmp.pdb

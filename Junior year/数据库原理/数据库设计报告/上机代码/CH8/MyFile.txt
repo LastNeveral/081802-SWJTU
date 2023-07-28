@@ -1,0 +1,2 @@
+   C#中，集合操作远远比Java方便。尤其是有了泛型。
+   几乎所有集合类型都可以转换成IEnumerable<T>类型，IEnumerable<T>可以用ToList()方法转换为List<T>，而且都可以用foreach来遍历。

@@ -1,0 +1,11 @@
+Rafael Delpiano, Juan Carlos Herrera, Jorge Laval, Juan Enrique Coeymans,
+A two-dimensional car-following model for two-dimensional traffic flow problems,
+Transportation Research Part C: Emerging Technologies,
+Volume 114,
+2020,
+Pages 504-516,
+ISSN 0968-090X,
+https://doi.org/10.1016/j.trc.2020.02.025.
+(https://www.sciencedirect.com/science/article/pii/S0968090X18317996)
+Abstract: This paper proposes a two-dimensional car-following model to tackle traffic flow problems where considering continuum lateral distances enables a simpler or more natural mathematical formulation compared to traditional car-following models. These problems include (i) the effects of lateral friction often observed in HOV lanes and diverge bottlenecks, (ii) the relaxation phenomenon at merge bottlenecks, (iii) the occurrence of accidents due to lane changing, and (iv) traffic models for autonomous vehicles (AVs). We conjecture that traditional car-following models, where the lateral dimension is discretized into lanes, struggle with these problems and one has to resort to ad-hoc rules conceived to directly achieve the desired effect, and that are difficult to validate. We argue that the distance maintained by drivers in order to avoid collisions in all directions plays a fundamental role in all these problems. To test this hypothesis, we propose a simple two-dimensional microscopic car-following model based on the social force paradigm, and build simulation experiments that reproduce these phenomena. These phenomena are reproduced as an indirect consequence of the model’s formulation, as opposed to ad-hoc rules, thus shedding light on their causes. A better understanding of the behavior of human drivers in the lateral dimension can be translated to improving autonomous driving algorithms so that they are human-friendly. In addition, since AV technology is proprietary, we argue that the proposed model should provide a good starting point for building AV traffic flow models when real data becomes available, as these data come from sensors that cover two-dimensional regions.
+Keywords: Traffic flow theory; Microscopic traffic models; Car following; Social forces; Two-dimensional traffic; Relaxation phenomenon

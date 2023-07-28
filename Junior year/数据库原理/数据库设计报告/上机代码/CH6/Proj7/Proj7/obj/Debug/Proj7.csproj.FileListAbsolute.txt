@@ -1,0 +1,6 @@
+D:\C#和数据库\CH6\Proj7\Proj7\bin\Debug\Proj7.exe.config
+D:\C#和数据库\CH6\Proj7\Proj7\bin\Debug\Proj7.exe
+D:\C#和数据库\CH6\Proj7\Proj7\bin\Debug\Proj7.pdb
+D:\C#和数据库\CH6\Proj7\Proj7\obj\Debug\Proj7.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH6\Proj7\Proj7\obj\Debug\Proj7.exe
+D:\C#和数据库\CH6\Proj7\Proj7\obj\Debug\Proj7.pdb

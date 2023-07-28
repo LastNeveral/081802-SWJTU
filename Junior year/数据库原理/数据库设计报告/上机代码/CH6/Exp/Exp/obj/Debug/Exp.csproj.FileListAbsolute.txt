@@ -1,0 +1,6 @@
+D:\C#和数据库\CH6\Exp\Exp\bin\Debug\Exp.exe.config
+D:\C#和数据库\CH6\Exp\Exp\obj\Debug\Exp.csprojResolveAssemblyReference.cache
+D:\C#和数据库\CH6\Exp\Exp\bin\Debug\Exp.exe
+D:\C#和数据库\CH6\Exp\Exp\bin\Debug\Exp.pdb
+D:\C#和数据库\CH6\Exp\Exp\obj\Debug\Exp.exe
+D:\C#和数据库\CH6\Exp\Exp\obj\Debug\Exp.pdb

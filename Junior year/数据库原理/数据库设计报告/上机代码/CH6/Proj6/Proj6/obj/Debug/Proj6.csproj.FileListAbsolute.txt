@@ -1,0 +1,5 @@
+D:\C#和数据库\CH6\Proj6\Proj6\bin\Debug\Proj6.exe.config
+D:\C#和数据库\CH6\Proj6\Proj6\bin\Debug\Proj6.exe
+D:\C#和数据库\CH6\Proj6\Proj6\bin\Debug\Proj6.pdb
+D:\C#和数据库\CH6\Proj6\Proj6\obj\Debug\Proj6.exe
+D:\C#和数据库\CH6\Proj6\Proj6\obj\Debug\Proj6.pdb

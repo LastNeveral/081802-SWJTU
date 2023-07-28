@@ -1,0 +1,9 @@
+D:\C#和数据库\CH1\Proj1\Proj1\bin\Debug\Proj1.exe.config
+D:\C#和数据库\CH1\Proj1\Proj1\bin\Debug\Proj1.exe
+D:\C#和数据库\CH1\Proj1\Proj1\bin\Debug\Proj1.pdb
+D:\C#和数据库\CH1\Proj1\Proj1\obj\Debug\Proj1.exe
+D:\C#和数据库\CH1\Proj1\Proj1\obj\Debug\Proj1.pdb
+D:\C#和数据库\CH1\Proj1\Proj1\obj\Debug\Proj1.csprojResolveAssemblyReference.cache
+G:\数据仓库\aa电子商务系统开发案例教程\C#语言和数据库技术基础 - 正式版\C#和数据库\CH1\Proj1\Proj1\bin\Debug\Proj1.exe.config
+G:\数据仓库\aa电子商务系统开发案例教程\C#语言和数据库技术基础 - 正式版\C#和数据库\CH1\Proj1\Proj1\obj\Debug\Proj1.exe
+G:\数据仓库\aa电子商务系统开发案例教程\C#语言和数据库技术基础 - 正式版\C#和数据库\CH1\Proj1\Proj1\obj\Debug\Proj1.pdb

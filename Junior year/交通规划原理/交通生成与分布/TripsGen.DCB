@@ -1,0 +1,11 @@
+
+68
+"ZoneID",I,1,4,0,8,0,,,"",,Blank,
+"O_Base",R,5,8,0,10,2,,,"",,Blank,
+"D_Base",R,13,8,0,10,2,,,"",,Blank,
+"People_Base",R,21,8,0,10,2,,,"",,Blank,
+"GDP_Base",R,29,8,0,10,2,,,"",,Blank,
+"People_Fur",R,37,8,0,10,2,,,"",,Blank,
+"GDP_Fur",R,45,8,0,10,2,,,"",,Blank,
+"O_Fur",R,53,8,0,10,2,,,"",,Blank,
+"D_Fur",R,61,8,0,10,2,,,"",,Blank,
