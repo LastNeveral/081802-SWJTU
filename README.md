@@ -5,7 +5,7 @@ Almost **every classmate** arround me include me had been lost once.
  - *Where I can go in my future?*
 
 I have to say sorry that there I can give you none answer, because I think it is different to different person. However, this question always been a problem. When I was a freshman, I saw many valuable answers on the internet.
-<br>**There are some answer on the website** 
+<br>**There are some answers on the website** 
 <br>
 - [交通工程专业的出路在哪里](https://www.zhihu.com/question/388703030)
 - [如何评价西南交通大学的交通运输专业？](https://www.zhihu.com/question/326403912/answer/709236338)
