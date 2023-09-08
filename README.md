@@ -32,7 +32,10 @@ I have compiled all the academic materials I have retained since I entered the S
 This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. 
 
 <font color=red>Add a director "Interview Summary"(2023.9.8)</font>
+<br>This section consists of some materials and experiences I've accumulated during the graduate school interview phase. Of course, it still pertains exclusively to the field of transportation engineering 
 
+<br>
+<br>
 <font color=blue>*If anybody has more additional learning materials and willing to share, please contact me.* </font>
 <br>
 
