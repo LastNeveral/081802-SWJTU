@@ -29,7 +29,11 @@ I have compiled all the academic materials I have retained since I entered the S
 - Senior year
 <br>
 
-This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. *If anybody has more additional learning materials and willing to share, please contact me.* 
+This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. 
+
+<font color=red>Add a director "Interview Summary"(2023.9.8)</font>
+
+<font color=blue>*If anybody has more additional learning materials and willing to share, please contact me.* </font>
 <br>
 
 Finally, I wish this repository can really help you. 
