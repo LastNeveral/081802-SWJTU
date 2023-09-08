@@ -19,7 +19,7 @@ But to my opinion, what kind of life do you want and how to achieve it are most 
 ## About this repository
 
 
-<font color=red>***Consider copyright ownership issue. Delete all PPT.*** Now there are some key points, homework examples and easy programs(*7.28*)</font>
+<font color=red>***Consider copyright ownership issue. Delete all PPT.*** **Now there are some key points, homework examples and easy programs(*7.28*)**</font>
 
 I have compiled all the academic materials I have retained since I entered the Swjtu, and I sorted them into folders according to time and courses.(***Don't worry, it's all in Chinese>-<***)
 <br>
@@ -31,7 +31,7 @@ I have compiled all the academic materials I have retained since I entered the S
 
 This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. 
 
-<font color=red>Add a director "Interview Summary"(2023.9.8)</font>
+**Add a director "Interview Summary"(2023.9.8)**
 <br>This section consists of some materials and experiences I've accumulated during the graduate school interview phase. Of course, it still pertains exclusively to the field of transportation engineering 
 
 <br>
