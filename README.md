@@ -13,7 +13,8 @@ I have to say sorry that there I can give you none answer, because I think it is
 [![](/assets/img/where.jpg "where")](https://www.zhihu.com/question/388703030)
 
 But to my opinion, what kind of life do you want and how to achieve it are most important. I respect most attitudes in life if you know the consequences of your actions. Yeah, may it seems not freedom, but what I'm trying to say is that freedom is based on a certain foundation. 
-<BR>These are some of my ideas. If you disagree, please ignore.
+<br>
+These are some of my ideas. If you disagree, please ignore.
 <br>
 
 ## About this repository
@@ -32,14 +33,25 @@ I have compiled all the academic materials I have retained since I entered the S
 This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. 
 
 **Add a director "Interview Summary"(2023.9.8)**
-<br>This section consists of some materials and experiences I've accumulated during the graduate school interview phase. Of course, it still pertains exclusively to the field of transportation engineering 
 
-<br>
+This section consists of some materials and experiences I've accumulated during the graduate school interview phase. Of course, it still pertains exclusively to the field of transportation engineering 
+
+**ATTENTION**: Most of essays here are just for homeworks
+
 <br>
 <font color=blue>*If anybody has more additional learning materials and willing to share, please contact me.* </font>
 <br>
 
+
 Finally, I wish this repository can really help you. 
+
+
+
+
+
+# ？
+
+
 
 
 
