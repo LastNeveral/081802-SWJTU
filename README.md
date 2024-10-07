@@ -1,68 +1,22 @@
-# About Traffic Engineering
-Almost **every classmate** arround me include me had been lost once.
-- *What does this major realy about?*
-- *Why final exam of specialized courses looks that just need you recite?*
- - *Where I can go in my future?*
+# 081802-SWJTU
+仓库包含五个内容相关的文件夹。
 
-I have to say sorry that there I can give you none answer, because I think it is different to different person. However, this question always been a problem. When I was a freshman, I saw many valuable answers on the internet.
-<br>**There are some answers on the website** 
-<br>
-- [交通工程专业的出路在哪里](https://www.zhihu.com/question/388703030)
-- [如何评价西南交通大学的交通运输专业？](https://www.zhihu.com/question/326403912/answer/709236338)
-
-[![](/assets/img/where.jpg "where")](https://www.zhihu.com/question/388703030)
-
-But to my opinion, what kind of life do you want and how to achieve it are most important. I respect most attitudes in life if you know the consequences of your actions. Yeah, may it seems not freedom, but what I'm trying to say is that freedom is based on a certain foundation. 
-<br>
-These are some of my ideas. If you disagree, please ignore.
-<br>
-
-## About this repository
-
-
-<font color=red>***Consider copyright ownership issue. Delete all PPT.*** **Now there are some key points, homework examples and easy programs(*7.28*)**</font>
-
-I have compiled all the academic materials I have retained since I entered the Swjtu, and I sorted them into folders according to time and courses.(***Don't worry, it's all in Chinese>-<***)
-<br>
 - Freshman year
 - Sophomore year
 - Junior year
 - Senior year
-<br>
+- Interview Summary
 
-This 4 dirs mainly store some PPT and homework for the course, You will also find some exam questions and standardized highlights for the class of 2020. Of course, Do not expect too much, it's incomplete. 
+前四个文件夹分年度分科目收录了关于我本科期间（**2020-2024**）的课程作业（*很多写的很水，轻喷*），以及一些考试、课程学习方面得分的经验，Interview Summary文件夹则为研究生推免阶段自己制作的模板以及部分问答材料。
 
-**Add a director "Interview Summary"(2023.9.8)**
+该仓库主要用于留存我本科的痕迹以及方便学弟学妹们给我要资料时的取用。
 
-This section consists of some materials and experiences I've accumulated during the graduate school interview phase. Of course, it still pertains exclusively to the field of transportation engineering 
-
-**ATTENTION**: Most of essays here are just for homeworks
-
-<br>
-<font color=blue>*If anybody has more additional learning materials and willing to share, please contact me.* </font>
-<br>
-
-
-Finally, I wish this repository can really help you. 
+<font color=red>***Consider copyright ownership issue. Delete all PPT.*** **Now there are some key points, homework examples and easy programs(*7.28*)**</font>
 
 
 
+## 关于专业
 
+作为一个传统交通工程专业的逃离者，我似乎没有真正深入到交通工程的方方面面中去，那我也没有什么资格对这个专业做出什么评价。当然身边大多数同学是在唱衰，毕竟在当下的环境（**2024**）中理想与现实薪资待遇的差距还是巨大的。在SWJTU我的本科同学大部分选择留在本专业读研或者二战读研，少部分选择去工作，极少部分像我一样选择换个赛道，似乎大部分人都把就业延后到硕士再决定了，那到时候会怎么样呢，可能我到时候就知道了，但是据我所知就算我当下的专业与代码密不可分，但半数以上的人最终都在准备考公、选调，情况大概是这么个情况。
 
-# ？
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+当然最关键的不是专业，而是面对生活与自己的态度，大概就这样先。
